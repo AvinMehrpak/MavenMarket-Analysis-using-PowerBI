@@ -1,15 +1,25 @@
-# MavenMarket-Analysis-using-PowerBI
+# MavenMarket-Analysis-mit-PowerBI
 ![Maven Market](Maven_Market.png)
 
-This Power BI project demonstrates advanced data analysis and visualization for Marven Market, providing insights into key business metrics. The report includes:
+# Power BI-Projekt: Marven Market
 
-Interactive Dashboards: Engaging visuals such as bar charts, line graphs, and KPI cards for tracking performance metrics.
-Data Modeling: Comprehensive relationships and transformations to ensure accurate and insightful analysis.
-## Insights:
-- Sales trends over time.
-- Customer segmentation and behavior analysis.
-- Inventory and product performance insights.
-## Features:
-Drill-through capabilities for in-depth exploration.
-Dynamic filtering and slicers for personalized views.
-This project highlights my expertise in data preparation, visual storytelling, and business intelligence, making it an excellent example of practical analytics implementation.
+Dieses Power BI-Projekt demonstriert fortgeschrittene Datenanalyse und Visualisierung für Marven Market und bietet Einblicke in zentrale Geschäftskennzahlen.
+
+## Inhalte des Berichts
+
+### Interaktive Dashboards:
+- Anschauliche Visualisierungen wie Balkendiagramme, Liniendiagramme und KPI-Karten zur Überwachung von Leistungskennzahlen.
+
+### Datenmodellierung:
+- Umfassende Beziehungen und Transformationen zur Sicherstellung einer genauen und aufschlussreichen Analyse.
+
+## Einblicke:
+- Umsatztrends im Zeitverlauf.
+- Kundensegmentierung und Verhaltensanalyse.
+- Einblicke in die Leistung von Produkten und Lagerbeständen.
+
+## Funktionen:
+- Drillthrough-Funktionen für detaillierte Analysen.
+- Dynamische Filter und Slicer für personalisierte Ansichten.
+
+Dieses Projekt unterstreicht meine Expertise in der **Datenvorbereitung**, **visuellen Datenaufbereitung** und **Geschäftsanalyse**. Es ist ein hervorragendes Beispiel für die praktische Umsetzung von Analytik.
